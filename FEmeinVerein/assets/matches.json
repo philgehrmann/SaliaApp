@@ -1,0 +1,1825 @@
+[
+  {
+    "month": 7,
+    "matches": [
+      {
+        "id": 13467808,
+        "slug": "fv-salia-sechtem-m1-sportfreunde-ippendorf-m1-240728",
+        "kickoff": "2024-07-28T15:00:00+02:00",
+        "updatedAt": 1727364970,
+        "competitionName": "Testspiele",
+        "homeGoal": 1,
+        "awayGoal": 4,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228513,
+          "slug": "sportfreunde-ippendorf-m1-2024-25",
+          "name": {
+            "full": "Sportfreunde Ippendorf",
+            "middle": "Ippendorf",
+            "short": "SFI"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/YyeeKThbiHxP/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "sportfreunde-ippendorf"
+        },
+        "awayTeamName": "Sportfreunde Ippendorf",
+        "streamUpdatedAt": 1727364970,
+        "tickerAuthor": null,
+        "resultForTeam": "defeat"
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "matches": [
+      {
+        "id": 12979007,
+        "slug": "fv-salia-sechtem-m1-ssv-bornheim-m2-240811",
+        "kickoff": "2024-08-11T15:00:00+02:00",
+        "updatedAt": 1723390237,
+        "competitionName": "Testspiele",
+        "homeGoal": 0,
+        "awayGoal": 3,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228520,
+          "slug": "ssv-bornheim-m2-2024-25",
+          "name": {
+            "full": "SSV Bornheim",
+            "middle": "SSV Bornheim",
+            "short": "SSVB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/team/EJctQ8cw3Csw/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "ssv-bornheim"
+        },
+        "awayTeamName": "SSV Bornheim II",
+        "streamUpdatedAt": 1716060831,
+        "tickerAuthor": null,
+        "resultForTeam": "defeat"
+      },
+      {
+        "id": 13090784,
+        "slug": "sv-blau-weiss-oedekoven-1926-m1-fv-salia-sechtem-m1-240818",
+        "kickoff": "2024-08-18T15:00:00+02:00",
+        "updatedAt": 1723998685,
+        "competitionName": "Kreispokal Bonn",
+        "homeGoal": 3,
+        "awayGoal": 1,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228522,
+          "slug": "sv-blau-weiss-oedekoven-1926-m1-2024-25",
+          "name": {
+            "full": "SV Blau-Wei\u00df Oedekoven 1926",
+            "middle": "Oedekoven",
+            "short": "SVBWO"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/wFydHHCJtVks/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "sv-blau-weiss-oedekoven-1926"
+        },
+        "homeTeamName": "SV Blau-Wei\u00df Oedekoven 1926",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1724003065,
+        "tickerAuthor": null,
+        "resultForTeam": "defeat"
+      },
+      {
+        "id": 13335212,
+        "slug": "oberkasseler-fv-m2-fv-salia-sechtem-m1-240825",
+        "kickoff": "2024-08-25T12:45:00+02:00",
+        "updatedAt": 1727351166,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 0,
+        "awayGoal": 5,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228529,
+          "slug": "oberkasseler-fv-m2-2024-25",
+          "name": {
+            "full": "Oberkasseler FV",
+            "middle": "Oberkassel",
+            "short": "OFV"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/ud58FNx3Oiod/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "oberkasseler-fv"
+        },
+        "homeTeamName": "Oberkasseler FV II",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1727351166,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "matches": [
+      {
+        "id": 13335220,
+        "slug": "fv-salia-sechtem-m1-tv-1911-rheindorf-m1-240901",
+        "kickoff": "2024-09-01T15:00:00+02:00",
+        "updatedAt": 1725204239,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 1,
+        "awayGoal": 0,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228562,
+          "slug": "tv-1911-rheindorf-m1-2024-25",
+          "name": {
+            "full": "TV 1911 Rheindorf",
+            "middle": "TV Rheindorf",
+            "short": "TVR"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/4bThV4PjNPKW/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "up",
+          "level": 1,
+          "clubSlug": "tv-1911-rheindorf"
+        },
+        "awayTeamName": "TV 1911 Rheindorf",
+        "streamUpdatedAt": 1725213396,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      },
+      {
+        "id": 13335226,
+        "slug": "fc-rot-weiss-lessenich-m1-fv-salia-sechtem-m1-240908",
+        "kickoff": "2024-09-08T15:30:00+02:00",
+        "updatedAt": 1725811424,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 0,
+        "awayGoal": 1,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228527,
+          "slug": "fc-rot-weiss-lessenich-m1-2024-25",
+          "name": {
+            "full": "FC Rot-Weiss Lessenich",
+            "middle": "RW Lessenich",
+            "short": "FCRWL"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/XmgTWmBeZepG/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "fc-rot-weiss-lessenich"
+        },
+        "homeTeamName": "FC Rot-Weiss Lessenich",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1725900750,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      },
+      {
+        "id": 13335236,
+        "slug": "fv-salia-sechtem-m1-sv-vorgebirge-m2-240915",
+        "kickoff": "2024-09-15T15:00:00+02:00",
+        "updatedAt": 1726412638,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 3,
+        "awayGoal": 0,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228536,
+          "slug": "sv-vorgebirge-m2-2024-25",
+          "name": {
+            "full": "SV Vorgebirge",
+            "middle": "Vorgebirge",
+            "short": "SVV"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/fwIcRU93O53Y/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "sv-vorgebirge"
+        },
+        "awayTeamName": "SV Vorgebirge II",
+        "streamUpdatedAt": 1726475231,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      },
+      {
+        "id": 13335247,
+        "slug": "bonner-sc-m2-fv-salia-sechtem-m1-240922",
+        "kickoff": "2024-09-22T13:30:00+02:00",
+        "updatedAt": 1727093756,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 4,
+        "awayGoal": 6,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228528,
+          "slug": "bonner-sc-m2-2024-25",
+          "name": {
+            "full": "Bonner SC",
+            "middle": "Bonner SC",
+            "short": "Bonn"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/gY9niiFAE2nN/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "bonner-sc"
+        },
+        "homeTeamName": "Bonner SC II",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1727093756,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      },
+      {
+        "id": 13335252,
+        "slug": "fv-salia-sechtem-m1-tus-puetzchen-05-m1-240929",
+        "kickoff": "2024-09-29T15:00:00+02:00",
+        "updatedAt": 1727627765,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 4,
+        "awayGoal": 0,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228526,
+          "slug": "tus-puetzchen-05-m1-2024-25",
+          "name": {
+            "full": "TuS P\u00fctzchen 05",
+            "middle": "TuS P\u00fctzchen",
+            "short": "TuSP"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/AktG3Cj1VSu1/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "tus-puetzchen-05"
+        },
+        "awayTeamName": "TuS P\u00fctzchen 05",
+        "streamUpdatedAt": 1727710338,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "matches": [
+      {
+        "id": 13335261,
+        "slug": "tus-germania-hersel-1910-m1-fv-salia-sechtem-m1-241006",
+        "kickoff": "2024-10-06T15:15:00+02:00",
+        "updatedAt": 1728229174,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 2,
+        "awayGoal": 3,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228524,
+          "slug": "tus-germania-hersel-1910-m1-2024-25",
+          "name": {
+            "full": "TuS Germania Hersel 1910",
+            "middle": "Hersel",
+            "short": "TuSGH"
+          },
+          "image": {
+            "path": "https://image.fupa.net/team/D4MPJdv88qem/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "tus-germania-hersel-1910"
+        },
+        "homeTeamName": "TuS Germania Hersel 1910",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1728232565,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      },
+      {
+        "id": 13335268,
+        "slug": "fv-salia-sechtem-m1-sv-boluspor-bonn-1992-m1-241013",
+        "kickoff": "2024-10-13T15:00:00+02:00",
+        "updatedAt": 1728832887,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": 3,
+        "awayGoal": 1,
+        "section": "POST",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228535,
+          "slug": "sv-boluspor-bonn-1992-m1-2024-25",
+          "name": {
+            "full": "SV Boluspor Bonn 1992",
+            "middle": "Boluspor",
+            "short": "SVBB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/4vJn8z5ing6C/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "sv-boluspor-bonn-1992"
+        },
+        "awayTeamName": "SV Boluspor Bonn 1992",
+        "streamUpdatedAt": 1728907915,
+        "tickerAuthor": null,
+        "resultForTeam": "win"
+      },
+      {
+        "id": 13335276,
+        "slug": "sv-beuel-06-m2-fv-salia-sechtem-m1-241020",
+        "kickoff": "2024-10-20T13:15:00+02:00",
+        "updatedAt": 1721626672,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228531,
+          "slug": "sv-beuel-06-m2-2024-25",
+          "name": {
+            "full": "SV Beuel 06",
+            "middle": "SV Beuel 06",
+            "short": "SVB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/4I48jRhB7nYU/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "sv-beuel-06"
+        },
+        "homeTeamName": "SV Beuel 06 II",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626672,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335282,
+        "slug": "fv-bonn-endenich-m2-fv-salia-sechtem-m1-241027",
+        "kickoff": "2024-10-27T12:45:00+01:00",
+        "updatedAt": 1721626662,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228509,
+          "slug": "fv-bonn-endenich-m2-2024-25",
+          "name": {
+            "full": "FV Bonn-Endenich",
+            "middle": "FV Endenich",
+            "short": "FVE"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/z6KyWJV3ZpQI/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "relegated",
+          "level": 2,
+          "clubSlug": "fv-bonn-endenich"
+        },
+        "homeTeamName": "FV Bonn-Endenich II",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626662,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "matches": [
+      {
+        "id": 13335292,
+        "slug": "fv-salia-sechtem-m1-tus-roisdorf-1932-m1-241103",
+        "kickoff": "2024-11-03T15:00:00+01:00",
+        "updatedAt": 1721626664,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228533,
+          "slug": "tus-roisdorf-1932-m1-2024-25",
+          "name": {
+            "full": "TuS Roisdorf 1932",
+            "middle": "TuS Roisdorf",
+            "short": "TuSR"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/xclFRSgv6NYQ/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "tus-roisdorf-1932"
+        },
+        "awayTeamName": "TuS Roisdorf 1932",
+        "streamUpdatedAt": 1721626664,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13708855,
+        "slug": "ssv-alemannia-brenig-1919-m1-fv-salia-sechtem-m1-241106",
+        "kickoff": "2024-11-06T19:30:00+01:00",
+        "updatedAt": 1729242002,
+        "competitionName": "Kreispokal Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228612,
+          "slug": "ssv-alemannia-brenig-1919-m1-2024-25",
+          "name": {
+            "full": "SSV Alemannia Brenig 1919",
+            "middle": "Al. Brenig",
+            "short": "SSVAB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/jvjCd8t2V7Be/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "ssv-alemannia-brenig-1919"
+        },
+        "homeTeamName": "SSV Alemannia Brenig 1919",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1729242002,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335304,
+        "slug": "sv-ennert-1911-m2-fv-salia-sechtem-m1-241110",
+        "kickoff": "2024-11-10T13:00:00+01:00",
+        "updatedAt": 1721626665,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228530,
+          "slug": "sv-ennert-1911-m2-2024-25",
+          "name": {
+            "full": "SV Ennert 1911",
+            "middle": "SV Ennert",
+            "short": "SVEK"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/U1RH48IwUWOq/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "sv-ennert-1911"
+        },
+        "homeTeamName": "SV Ennert 1911 II",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626665,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335308,
+        "slug": "fv-salia-sechtem-m1-1-jfc-brueser-berg-m1-241117",
+        "kickoff": "2024-11-17T14:45:00+01:00",
+        "updatedAt": 1721626666,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228555,
+          "slug": "1-jfc-brueser-berg-m1-2024-25",
+          "name": {
+            "full": "1. JFC Br\u00fcser Berg",
+            "middle": "Br\u00fcser Berg",
+            "short": "FFCB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/NMPX6OxZkQDG/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "1-jfc-brueser-berg"
+        },
+        "awayTeamName": "1. JFC Br\u00fcser Berg",
+        "streamUpdatedAt": 1721626666,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  },
+  {
+    "month": 12,
+    "matches": [
+      {
+        "id": 13335318,
+        "slug": "asg-uni-bonn-m1-fv-salia-sechtem-m1-241201",
+        "kickoff": "2024-12-01T15:15:00+01:00",
+        "updatedAt": 1721626667,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228543,
+          "slug": "asg-uni-bonn-m1-2024-25",
+          "name": {
+            "full": "ASG Uni Bonn",
+            "middle": "ASG Uni Bonn",
+            "short": "ASGUB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/BUkzyPBKxUoY/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "asg-uni-bonn"
+        },
+        "homeTeamName": "ASG Uni Bonn",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626667,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335324,
+        "slug": "fv-salia-sechtem-m1-sv-wachtberg-m3-241208",
+        "kickoff": "2024-12-08T15:00:00+01:00",
+        "updatedAt": 1721626668,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228539,
+          "slug": "sv-wachtberg-m3-2024-25",
+          "name": {
+            "full": "SV Wachtberg",
+            "middle": "SV Wachtberg",
+            "short": "SVW"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/vBjbgCXazdEY/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 3,
+          "clubSlug": "sv-wachtberg"
+        },
+        "awayTeamName": "SV Wachtberg III",
+        "streamUpdatedAt": 1721626668,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "matches": [
+      {
+        "id": 13335388,
+        "slug": "sv-boluspor-bonn-1992-m1-fv-salia-sechtem-m1-250216",
+        "kickoff": "2025-02-16T15:00:00+01:00",
+        "updatedAt": 1721626675,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228535,
+          "slug": "sv-boluspor-bonn-1992-m1-2024-25",
+          "name": {
+            "full": "SV Boluspor Bonn 1992",
+            "middle": "Boluspor",
+            "short": "SVBB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/4vJn8z5ing6C/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "sv-boluspor-bonn-1992"
+        },
+        "homeTeamName": "SV Boluspor Bonn 1992",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626675,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335438,
+        "slug": "fv-salia-sechtem-m1-asg-uni-bonn-m1-250223",
+        "kickoff": "2025-02-23T15:00:00+01:00",
+        "updatedAt": 1721626661,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228543,
+          "slug": "asg-uni-bonn-m1-2024-25",
+          "name": {
+            "full": "ASG Uni Bonn",
+            "middle": "ASG Uni Bonn",
+            "short": "ASGUB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/BUkzyPBKxUoY/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "asg-uni-bonn"
+        },
+        "awayTeamName": "ASG Uni Bonn",
+        "streamUpdatedAt": 1721626661,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "matches": [
+      {
+        "id": 13335332,
+        "slug": "fv-salia-sechtem-m1-oberkasseler-fv-m2-250309",
+        "kickoff": "2025-03-09T15:00:00+01:00",
+        "updatedAt": 1721626659,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228529,
+          "slug": "oberkasseler-fv-m2-2024-25",
+          "name": {
+            "full": "Oberkasseler FV",
+            "middle": "Oberkassel",
+            "short": "OFV"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/ud58FNx3Oiod/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "oberkasseler-fv"
+        },
+        "awayTeamName": "Oberkasseler FV II",
+        "streamUpdatedAt": 1721626659,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335340,
+        "slug": "tv-1911-rheindorf-m1-fv-salia-sechtem-m1-250316",
+        "kickoff": "2025-03-16T15:30:00+01:00",
+        "updatedAt": 1721626660,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228562,
+          "slug": "tv-1911-rheindorf-m1-2024-25",
+          "name": {
+            "full": "TV 1911 Rheindorf",
+            "middle": "TV Rheindorf",
+            "short": "TVR"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/4bThV4PjNPKW/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "up",
+          "level": 1,
+          "clubSlug": "tv-1911-rheindorf"
+        },
+        "homeTeamName": "TV 1911 Rheindorf",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626660,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335346,
+        "slug": "fv-salia-sechtem-m1-fc-rot-weiss-lessenich-m1-250323",
+        "kickoff": "2025-03-23T15:00:00+01:00",
+        "updatedAt": 1721626661,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228527,
+          "slug": "fc-rot-weiss-lessenich-m1-2024-25",
+          "name": {
+            "full": "FC Rot-Weiss Lessenich",
+            "middle": "RW Lessenich",
+            "short": "FCRWL"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/XmgTWmBeZepG/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "fc-rot-weiss-lessenich"
+        },
+        "awayTeamName": "FC Rot-Weiss Lessenich",
+        "streamUpdatedAt": 1721626661,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335356,
+        "slug": "sv-vorgebirge-m2-fv-salia-sechtem-m1-250330",
+        "kickoff": "2025-03-30T13:00:00+02:00",
+        "updatedAt": 1721626670,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228536,
+          "slug": "sv-vorgebirge-m2-2024-25",
+          "name": {
+            "full": "SV Vorgebirge",
+            "middle": "Vorgebirge",
+            "short": "SVV"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/fwIcRU93O53Y/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "sv-vorgebirge"
+        },
+        "homeTeamName": "SV Vorgebirge II",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626670,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "matches": [
+      {
+        "id": 13335367,
+        "slug": "fv-salia-sechtem-m1-bonner-sc-m2-250406",
+        "kickoff": "2025-04-06T15:00:00+02:00",
+        "updatedAt": 1721626672,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228528,
+          "slug": "bonner-sc-m2-2024-25",
+          "name": {
+            "full": "Bonner SC",
+            "middle": "Bonner SC",
+            "short": "Bonn"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/gY9niiFAE2nN/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "bonner-sc"
+        },
+        "awayTeamName": "Bonner SC II",
+        "streamUpdatedAt": 1721626672,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335372,
+        "slug": "tus-puetzchen-05-m1-fv-salia-sechtem-m1-250413",
+        "kickoff": "2025-04-13T13:00:00+02:00",
+        "updatedAt": 1721626673,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228526,
+          "slug": "tus-puetzchen-05-m1-2024-25",
+          "name": {
+            "full": "TuS P\u00fctzchen 05",
+            "middle": "TuS P\u00fctzchen",
+            "short": "TuSP"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/AktG3Cj1VSu1/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "tus-puetzchen-05"
+        },
+        "homeTeamName": "TuS P\u00fctzchen 05",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626673,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335381,
+        "slug": "fv-salia-sechtem-m1-tus-germania-hersel-1910-m1-250427",
+        "kickoff": "2025-04-27T15:00:00+02:00",
+        "updatedAt": 1721626674,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228524,
+          "slug": "tus-germania-hersel-1910-m1-2024-25",
+          "name": {
+            "full": "TuS Germania Hersel 1910",
+            "middle": "Hersel",
+            "short": "TuSGH"
+          },
+          "image": {
+            "path": "https://image.fupa.net/team/D4MPJdv88qem/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "tus-germania-hersel-1910"
+        },
+        "awayTeamName": "TuS Germania Hersel 1910",
+        "streamUpdatedAt": 1721626674,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "matches": [
+      {
+        "id": 13335396,
+        "slug": "fv-salia-sechtem-m1-sv-beuel-06-m2-250504",
+        "kickoff": "2025-05-04T15:00:00+02:00",
+        "updatedAt": 1721626677,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228531,
+          "slug": "sv-beuel-06-m2-2024-25",
+          "name": {
+            "full": "SV Beuel 06",
+            "middle": "SV Beuel 06",
+            "short": "SVB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/4I48jRhB7nYU/",
+            "description": null,
+            "source": "",
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "sv-beuel-06"
+        },
+        "awayTeamName": "SV Beuel 06 II",
+        "streamUpdatedAt": 1721626677,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335402,
+        "slug": "fv-salia-sechtem-m1-fv-bonn-endenich-m2-250511",
+        "kickoff": "2025-05-11T15:00:00+02:00",
+        "updatedAt": 1721626674,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228509,
+          "slug": "fv-bonn-endenich-m2-2024-25",
+          "name": {
+            "full": "FV Bonn-Endenich",
+            "middle": "FV Endenich",
+            "short": "FVE"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/z6KyWJV3ZpQI/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "relegated",
+          "level": 2,
+          "clubSlug": "fv-bonn-endenich"
+        },
+        "awayTeamName": "FV Bonn-Endenich II",
+        "streamUpdatedAt": 1721626674,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335412,
+        "slug": "tus-roisdorf-1932-m1-fv-salia-sechtem-m1-250518",
+        "kickoff": "2025-05-18T15:30:00+02:00",
+        "updatedAt": 1721626676,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228533,
+          "slug": "tus-roisdorf-1932-m1-2024-25",
+          "name": {
+            "full": "TuS Roisdorf 1932",
+            "middle": "TuS Roisdorf",
+            "short": "TuSR"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/xclFRSgv6NYQ/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "tus-roisdorf-1932"
+        },
+        "homeTeamName": "TuS Roisdorf 1932",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626676,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335424,
+        "slug": "fv-salia-sechtem-m1-sv-ennert-1911-m2-250525",
+        "kickoff": "2025-05-25T15:00:00+02:00",
+        "updatedAt": 1721626658,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "homeTeamName": "FV Salia Sechtem",
+        "awayTeam": {
+          "id": 1228530,
+          "slug": "sv-ennert-1911-m2-2024-25",
+          "name": {
+            "full": "SV Ennert 1911",
+            "middle": "SV Ennert",
+            "short": "SVEK"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/U1RH48IwUWOq/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 2,
+          "clubSlug": "sv-ennert-1911"
+        },
+        "awayTeamName": "SV Ennert 1911 II",
+        "streamUpdatedAt": 1721626658,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "matches": [
+      {
+        "id": 13335428,
+        "slug": "1-jfc-brueser-berg-m1-fv-salia-sechtem-m1-250601",
+        "kickoff": "2025-06-01T14:30:00+02:00",
+        "updatedAt": 1721626659,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228555,
+          "slug": "1-jfc-brueser-berg-m1-2024-25",
+          "name": {
+            "full": "1. JFC Br\u00fcser Berg",
+            "middle": "Br\u00fcser Berg",
+            "short": "FFCB"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/NMPX6OxZkQDG/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 1,
+          "clubSlug": "1-jfc-brueser-berg"
+        },
+        "homeTeamName": "1. JFC Br\u00fcser Berg",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626659,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      },
+      {
+        "id": 13335444,
+        "slug": "sv-wachtberg-m3-fv-salia-sechtem-m1-250615",
+        "kickoff": "2025-06-15T10:30:00+02:00",
+        "updatedAt": 1721626677,
+        "competitionName": "Kreisliga B, Staffel 1, Bonn",
+        "homeGoal": null,
+        "awayGoal": null,
+        "section": "PRE",
+        "flags": null,
+        "homeTeam": {
+          "id": 1228539,
+          "slug": "sv-wachtberg-m3-2024-25",
+          "name": {
+            "full": "SV Wachtberg",
+            "middle": "SV Wachtberg",
+            "short": "SVW"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/vBjbgCXazdEY/",
+            "description": null,
+            "source": null,
+            "svg": false
+          },
+          "origin": "",
+          "level": 3,
+          "clubSlug": "sv-wachtberg"
+        },
+        "homeTeamName": "SV Wachtberg III",
+        "awayTeam": {
+          "id": 1228512,
+          "slug": "fv-salia-sechtem-m1-2024-25",
+          "name": {
+            "full": "FV Salia Sechtem",
+            "middle": "Sechtem",
+            "short": "SVSS"
+          },
+          "image": {
+            "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+            "description": null,
+            "source": "",
+            "svg": true
+          },
+          "origin": "relegated",
+          "level": 1,
+          "clubSlug": "fv-salia-sechtem"
+        },
+        "awayTeamName": "FV Salia Sechtem",
+        "streamUpdatedAt": 1721626677,
+        "tickerAuthor": null,
+        "resultForTeam": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,520 @@
+{
+  "competition": {
+    "slug": "bonn-kreisliga-b-staffel-1-139492",
+    "name": "Kreisliga B, Staffel 1, Bonn"
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "matches": 8,
+      "wins": 8,
+      "draws": 0,
+      "defeats": 0,
+      "ownGoals": 26,
+      "againstGoals": 7,
+      "goalDifference": 19,
+      "points": 24,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228512,
+        "slug": "fv-salia-sechtem-m1-2024-25",
+        "name": {
+          "full": "FV Salia Sechtem",
+          "middle": "Sechtem",
+          "short": "SVSS"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/8RFPWDGoyoyq/",
+          "description": null,
+          "source": "",
+          "svg": true
+        },
+        "origin": "relegated",
+        "level": 1,
+        "clubSlug": "fv-salia-sechtem"
+      },
+      "mark": "up1",
+      "isRequestedTeam": true
+    },
+    {
+      "rank": 2,
+      "matches": 8,
+      "wins": 6,
+      "draws": 0,
+      "defeats": 2,
+      "ownGoals": 28,
+      "againstGoals": 11,
+      "goalDifference": 17,
+      "points": 18,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228555,
+        "slug": "1-jfc-brueser-berg-m1-2024-25",
+        "name": {
+          "full": "1. JFC Br\u00fcser Berg",
+          "middle": "Br\u00fcser Berg",
+          "short": "FFCB"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/NMPX6OxZkQDG/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 1,
+        "clubSlug": "1-jfc-brueser-berg"
+      },
+      "mark": "up1",
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 3,
+      "matches": 8,
+      "wins": 5,
+      "draws": 2,
+      "defeats": 1,
+      "ownGoals": 21,
+      "againstGoals": 13,
+      "goalDifference": 8,
+      "points": 17,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228509,
+        "slug": "fv-bonn-endenich-m2-2024-25",
+        "name": {
+          "full": "FV Bonn-Endenich",
+          "middle": "FV Endenich",
+          "short": "FVE"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/z6KyWJV3ZpQI/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "relegated",
+        "level": 2,
+        "clubSlug": "fv-bonn-endenich"
+      },
+      "mark": "up1",
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 4,
+      "matches": 8,
+      "wins": 5,
+      "draws": 1,
+      "defeats": 2,
+      "ownGoals": 32,
+      "againstGoals": 17,
+      "goalDifference": 15,
+      "points": 16,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228533,
+        "slug": "tus-roisdorf-1932-m1-2024-25",
+        "name": {
+          "full": "TuS Roisdorf 1932",
+          "middle": "TuS Roisdorf",
+          "short": "TuSR"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/xclFRSgv6NYQ/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 1,
+        "clubSlug": "tus-roisdorf-1932"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 5,
+      "matches": 8,
+      "wins": 5,
+      "draws": 1,
+      "defeats": 2,
+      "ownGoals": 24,
+      "againstGoals": 18,
+      "goalDifference": 6,
+      "points": 16,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228524,
+        "slug": "tus-germania-hersel-1910-m1-2024-25",
+        "name": {
+          "full": "TuS Germania Hersel 1910",
+          "middle": "Hersel",
+          "short": "TuSGH"
+        },
+        "image": {
+          "path": "https://image.fupa.net/team/D4MPJdv88qem/",
+          "description": null,
+          "source": "",
+          "svg": false
+        },
+        "origin": "",
+        "level": 1,
+        "clubSlug": "tus-germania-hersel-1910"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 6,
+      "matches": 8,
+      "wins": 3,
+      "draws": 3,
+      "defeats": 2,
+      "ownGoals": 18,
+      "againstGoals": 17,
+      "goalDifference": 1,
+      "points": 12,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228539,
+        "slug": "sv-wachtberg-m3-2024-25",
+        "name": {
+          "full": "SV Wachtberg",
+          "middle": "SV Wachtberg",
+          "short": "SVW"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/vBjbgCXazdEY/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 3,
+        "clubSlug": "sv-wachtberg"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 7,
+      "matches": 8,
+      "wins": 3,
+      "draws": 2,
+      "defeats": 3,
+      "ownGoals": 22,
+      "againstGoals": 17,
+      "goalDifference": 5,
+      "points": 11,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228531,
+        "slug": "sv-beuel-06-m2-2024-25",
+        "name": {
+          "full": "SV Beuel 06",
+          "middle": "SV Beuel 06",
+          "short": "SVB"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/4I48jRhB7nYU/",
+          "description": null,
+          "source": "",
+          "svg": false
+        },
+        "origin": "",
+        "level": 2,
+        "clubSlug": "sv-beuel-06"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 8,
+      "matches": 8,
+      "wins": 3,
+      "draws": 2,
+      "defeats": 3,
+      "ownGoals": 19,
+      "againstGoals": 21,
+      "goalDifference": -2,
+      "points": 11,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228527,
+        "slug": "fc-rot-weiss-lessenich-m1-2024-25",
+        "name": {
+          "full": "FC Rot-Weiss Lessenich",
+          "middle": "RW Lessenich",
+          "short": "FCRWL"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/XmgTWmBeZepG/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 1,
+        "clubSlug": "fc-rot-weiss-lessenich"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 9,
+      "matches": 8,
+      "wins": 3,
+      "draws": 1,
+      "defeats": 4,
+      "ownGoals": 20,
+      "againstGoals": 19,
+      "goalDifference": 1,
+      "points": 10,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228536,
+        "slug": "sv-vorgebirge-m2-2024-25",
+        "name": {
+          "full": "SV Vorgebirge",
+          "middle": "Vorgebirge",
+          "short": "SVV"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/fwIcRU93O53Y/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 2,
+        "clubSlug": "sv-vorgebirge"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 10,
+      "matches": 8,
+      "wins": 2,
+      "draws": 3,
+      "defeats": 3,
+      "ownGoals": 13,
+      "againstGoals": 13,
+      "goalDifference": 0,
+      "points": 9,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228535,
+        "slug": "sv-boluspor-bonn-1992-m1-2024-25",
+        "name": {
+          "full": "SV Boluspor Bonn 1992",
+          "middle": "Boluspor",
+          "short": "SVBB"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/4vJn8z5ing6C/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 1,
+        "clubSlug": "sv-boluspor-bonn-1992"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 11,
+      "matches": 8,
+      "wins": 3,
+      "draws": 0,
+      "defeats": 5,
+      "ownGoals": 14,
+      "againstGoals": 21,
+      "goalDifference": -7,
+      "points": 9,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228526,
+        "slug": "tus-puetzchen-05-m1-2024-25",
+        "name": {
+          "full": "TuS P\u00fctzchen 05",
+          "middle": "TuS P\u00fctzchen",
+          "short": "TuSP"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/AktG3Cj1VSu1/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 1,
+        "clubSlug": "tus-puetzchen-05"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 12,
+      "matches": 8,
+      "wins": 2,
+      "draws": 2,
+      "defeats": 4,
+      "ownGoals": 13,
+      "againstGoals": 25,
+      "goalDifference": -12,
+      "points": 8,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228528,
+        "slug": "bonner-sc-m2-2024-25",
+        "name": {
+          "full": "Bonner SC",
+          "middle": "Bonner SC",
+          "short": "Bonn"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/gY9niiFAE2nN/",
+          "description": null,
+          "source": "",
+          "svg": true
+        },
+        "origin": "",
+        "level": 2,
+        "clubSlug": "bonner-sc"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 13,
+      "matches": 8,
+      "wins": 2,
+      "draws": 1,
+      "defeats": 5,
+      "ownGoals": 12,
+      "againstGoals": 24,
+      "goalDifference": -12,
+      "points": 7,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228562,
+        "slug": "tv-1911-rheindorf-m1-2024-25",
+        "name": {
+          "full": "TV 1911 Rheindorf",
+          "middle": "TV Rheindorf",
+          "short": "TVR"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/4bThV4PjNPKW/",
+          "description": null,
+          "source": "",
+          "svg": false
+        },
+        "origin": "up",
+        "level": 1,
+        "clubSlug": "tv-1911-rheindorf"
+      },
+      "mark": null,
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 14,
+      "matches": 8,
+      "wins": 1,
+      "draws": 3,
+      "defeats": 4,
+      "ownGoals": 8,
+      "againstGoals": 19,
+      "goalDifference": -11,
+      "points": 6,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228529,
+        "slug": "oberkasseler-fv-m2-2024-25",
+        "name": {
+          "full": "Oberkasseler FV",
+          "middle": "Oberkassel",
+          "short": "OFV"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/ud58FNx3Oiod/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 2,
+        "clubSlug": "oberkasseler-fv"
+      },
+      "mark": "down2",
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 15,
+      "matches": 8,
+      "wins": 1,
+      "draws": 2,
+      "defeats": 5,
+      "ownGoals": 6,
+      "againstGoals": 19,
+      "goalDifference": -13,
+      "points": 5,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228530,
+        "slug": "sv-ennert-1911-m2-2024-25",
+        "name": {
+          "full": "SV Ennert 1911",
+          "middle": "SV Ennert",
+          "short": "SVEK"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/U1RH48IwUWOq/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 2,
+        "clubSlug": "sv-ennert-1911"
+      },
+      "mark": "down2",
+      "isRequestedTeam": false
+    },
+    {
+      "rank": 16,
+      "matches": 8,
+      "wins": 0,
+      "draws": 1,
+      "defeats": 7,
+      "ownGoals": 8,
+      "againstGoals": 23,
+      "goalDifference": -15,
+      "points": 1,
+      "penaltyPoints": 0,
+      "team": {
+        "id": 1228543,
+        "slug": "asg-uni-bonn-m1-2024-25",
+        "name": {
+          "full": "ASG Uni Bonn",
+          "middle": "ASG Uni Bonn",
+          "short": "ASGUB"
+        },
+        "image": {
+          "path": "https://image.fupa.net/club/BUkzyPBKxUoY/",
+          "description": null,
+          "source": null,
+          "svg": false
+        },
+        "origin": "",
+        "level": 1,
+        "clubSlug": "asg-uni-bonn"
+      },
+      "mark": "down2",
+      "isRequestedTeam": false
+    }
+  ]
+}

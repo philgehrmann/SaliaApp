@@ -1,0 +1,542 @@
+{
+  "teamImage": {
+    "path": "https://image.fupa.net/team-image/ZnwBdD2ONTHC/",
+    "description": "",
+    "source": "Udo Smeets",
+    "svg": false
+  },
+  "coaches": [
+    {
+      "slug": "michael-schneider-230119",
+      "firstName": "Michael",
+      "lastName": "Schneider",
+      "image": {
+        "path": "https://image.fupa.net/player/EwsJ6PVIltHV/",
+        "description": "Michael Schneider",
+        "source": "Udo Smeets",
+        "svg": false
+      },
+      "position": "Trainer"
+    },
+    {
+      "slug": "daniel-breidenbach-174455",
+      "firstName": "Daniel",
+      "lastName": "Breidenbach",
+      "image": {
+        "path": "https://image.fupa.net/player/CzDRjcogo2ue/",
+        "description": "Daniel Breidenbach",
+        "source": "Udo Smeets",
+        "svg": false
+      },
+      "position": "Co-Trainer"
+    },
+    {
+      "slug": "niklas-krueger-960422",
+      "firstName": "Niklas",
+      "lastName": "Kr\u00fcger",
+      "image": {
+        "path": "https://image.fupa.net/player/S37ZKOLLfIvN/",
+        "description": "Niklas Kr\u00fcger",
+        "source": "Udo Smeets",
+        "svg": false
+      },
+      "position": "Torwart-Trainer"
+    },
+    {
+      "slug": "nv-rene-flohr-1284712",
+      "firstName": "Rene",
+      "lastName": "Flohr",
+      "image": {
+        "path": "https://image.fupa.net/player/QiqLEVYIqnC7/",
+        "description": "Rene Flohr",
+        "source": "Udo Smeets",
+        "svg": false
+      },
+      "position": "Betreuer"
+    },
+    {
+      "slug": "christopher-nuessgen-174458",
+      "firstName": "Christopher",
+      "lastName": "N\u00fcssgen",
+      "image": {
+        "path": "https://image.fupa.net/player/LqFSa2NRRYIh/",
+        "description": "Christopher N\u00fcssgen",
+        "source": "Udo Smeets",
+        "svg": false
+      },
+      "position": "sportlicher Leiter"
+    }
+  ],
+  "squad": [
+    {
+      "position": "Torwart",
+      "players": [
+        {
+          "slug": "nils-jannis-bargon-2014211",
+          "firstName": "Nils Jannis",
+          "lastName": "Bargon",
+          "image": {
+            "path": "https://image.fupa.net/player/HhXKxP4VU9k8/",
+            "description": "Nils Jannis Bargon",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 18,
+          "flags": [],
+          "statistics": {
+            "matches": 7,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "tom-krellmann-984895",
+          "firstName": "Tom",
+          "lastName": "Krellmann",
+          "image": {
+            "path": "https://image.fupa.net/player/UH8FCrFiEOjP/",
+            "description": "Tom Krellmann",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": null,
+          "flags": [],
+          "statistics": {
+            "matches": 1,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "niklas-krueger-960422",
+          "firstName": "Niklas",
+          "lastName": "Kr\u00fcger",
+          "image": {
+            "path": "https://image.fupa.net/player/S37ZKOLLfIvN/",
+            "description": "Niklas Kr\u00fcger",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 1,
+          "flags": [],
+          "statistics": {
+            "matches": 0,
+            "goals": 0,
+            "assists": 0
+          }
+        }
+      ]
+    },
+    {
+      "position": "Abwehr",
+      "players": [
+        {
+          "slug": "marco-fuermeyer-540648",
+          "firstName": "Marco",
+          "lastName": "F\u00fcrmeyer",
+          "image": {
+            "path": "https://image.fupa.net/player/eo7fu1gPPmEO/",
+            "description": "Marco F\u00fcrmeyer",
+            "source": "Fotograf",
+            "svg": false
+          },
+          "jerseyNumber": 22,
+          "flags": ["new"],
+          "statistics": {
+            "matches": 6,
+            "goals": 1,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "oliver-kowalk-2168955",
+          "firstName": "Oliver",
+          "lastName": "Kowalk",
+          "image": {
+            "path": "https://image.fupa.net/player/vVUVpb7VmR78/",
+            "description": "Oliver Kowalk",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 3,
+          "flags": [],
+          "statistics": {
+            "matches": 8,
+            "goals": 1,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "johannes-linnartz-935980",
+          "firstName": "Johannes",
+          "lastName": "Linnartz",
+          "image": {
+            "path": "https://image.fupa.net/player/6DvnfOnkdGvs/",
+            "description": "Johannes Linnartz",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 19,
+          "flags": ["banned"],
+          "statistics": {
+            "matches": 5,
+            "goals": 1,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "leon-mueller-1042640",
+          "firstName": "Leon",
+          "lastName": "M\u00fcller",
+          "image": {
+            "path": "https://image.fupa.net/player/TrY7EXnfpJ8V/",
+            "description": "Leon M\u00fcller",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 21,
+          "flags": [],
+          "statistics": {
+            "matches": 6,
+            "goals": 2,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "daniel-schumacher-2156669",
+          "firstName": "Daniel",
+          "lastName": "Schumacher",
+          "image": {
+            "path": "https://image.fupa.net/player/QnBa0928FhK1/",
+            "description": "Daniel Schumacher",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 11,
+          "flags": [],
+          "statistics": {
+            "matches": 5,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "leonard-veltjens-960420",
+          "firstName": "Leonard",
+          "lastName": "Veltjens",
+          "image": {
+            "path": "https://image.fupa.net/player/YxmjyGFgrgi3/",
+            "description": "Leonard Veltjens",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 5,
+          "flags": [],
+          "statistics": {
+            "matches": 0,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "david-weber-1677395",
+          "firstName": "David",
+          "lastName": "Weber",
+          "image": {
+            "path": "https://image.fupa.net/player/khpgREAMXNlC/",
+            "description": "David Weber",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 4,
+          "flags": [],
+          "statistics": {
+            "matches": 6,
+            "goals": 0,
+            "assists": 2
+          }
+        }
+      ]
+    },
+    {
+      "position": "Mittelfeld",
+      "players": [
+        {
+          "slug": "julian-altnorthoff-960921",
+          "firstName": "Julian",
+          "lastName": "Altnorthoff",
+          "image": {
+            "path": "https://image.fupa.net/player/fZ0KBv2KQVax/",
+            "description": "Julian Altnorthoff",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 6,
+          "flags": [],
+          "statistics": {
+            "matches": 8,
+            "goals": 2,
+            "assists": 1
+          }
+        },
+        {
+          "slug": "luis-anft-424349",
+          "firstName": "Luis",
+          "lastName": "Anft",
+          "image": {
+            "path": "https://image.fupa.net/player/M7cvg5IySPwf/",
+            "description": "Luis Anft",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 28,
+          "flags": ["captain"],
+          "statistics": {
+            "matches": 8,
+            "goals": 2,
+            "assists": 3
+          }
+        },
+        {
+          "slug": "timo-bialas-948482",
+          "firstName": "Timo",
+          "lastName": "Bialas",
+          "image": {
+            "path": "https://image.fupa.net/player/hd011UnQGJSt/",
+            "description": "Timo Bialas",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 14,
+          "flags": [],
+          "statistics": {
+            "matches": 7,
+            "goals": 3,
+            "assists": 2
+          }
+        },
+        {
+          "slug": "malik-kulus-1982132",
+          "firstName": "Malik",
+          "lastName": "Kulus",
+          "image": {
+            "path": "https://image.fupa.net/player/icxiW9WfRL4h/",
+            "description": "Malik Kulus",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 16,
+          "flags": [],
+          "statistics": {
+            "matches": 4,
+            "goals": 2,
+            "assists": 2
+          }
+        },
+        {
+          "slug": "grey-nkhoma-2205747",
+          "firstName": "Grey",
+          "lastName": "Nkhoma",
+          "image": {
+            "path": "https://image.fupa.net/player/8w4J5VexxUCr/",
+            "description": "Grey Nkhoma",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": null,
+          "flags": [],
+          "statistics": {
+            "matches": 3,
+            "goals": 1,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "xoel-otero-nebot-1842465",
+          "firstName": "Xoel",
+          "lastName": "Otero Nebot",
+          "image": {
+            "path": "https://image.fupa.net/player/rbLLCDL7qNHH/",
+            "description": "Xoel Otero Nebot",
+            "source": "Rodacker",
+            "svg": false
+          },
+          "jerseyNumber": 20,
+          "flags": [],
+          "statistics": {
+            "matches": 6,
+            "goals": 2,
+            "assists": 1
+          }
+        },
+        {
+          "slug": "thibault-schlez-2142516",
+          "firstName": "Thibault",
+          "lastName": "Schlez",
+          "image": {
+            "path": "https://image.fupa.net/player/KoqDSfDZLLdp/",
+            "description": "Thibault Schlez",
+            "source": "Rodacker",
+            "svg": false
+          },
+          "jerseyNumber": 24,
+          "flags": [],
+          "statistics": {
+            "matches": 0,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "nv-benjamin-schmitz-2322870",
+          "firstName": "Benjamin",
+          "lastName": "Schmitz",
+          "image": {
+            "path": "https://image.fupa.net/player/Y1NfDiFUnwcn/",
+            "description": null,
+            "source": null,
+            "svg": true
+          },
+          "jerseyNumber": null,
+          "flags": [],
+          "statistics": {
+            "matches": 0,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "moritz-schwechheimer-2171992",
+          "firstName": "Moritz",
+          "lastName": "Schwechheimer",
+          "image": {
+            "path": "https://image.fupa.net/player/sBXiGwsLd5Pj/",
+            "description": "Moritz Schwechheimer",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 10,
+          "flags": [],
+          "statistics": {
+            "matches": 7,
+            "goals": 3,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "david-strom-829140",
+          "firstName": "David",
+          "lastName": "Strom",
+          "image": {
+            "path": "https://image.fupa.net/player/cGtlgwG31n3r/",
+            "description": "David Strom",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 17,
+          "flags": [],
+          "statistics": {
+            "matches": 3,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "berkan-uzundal-1768987",
+          "firstName": "Berkan",
+          "lastName": "Uzundal",
+          "image": {
+            "path": "https://image.fupa.net/player/bulCtkAUpnjm/",
+            "description": "Berkan Uzundal",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 25,
+          "flags": ["new"],
+          "statistics": {
+            "matches": 6,
+            "goals": 0,
+            "assists": 0
+          }
+        },
+        {
+          "slug": "lloyd-zantow-950474",
+          "firstName": "Lloyd",
+          "lastName": "Zantow",
+          "image": {
+            "path": "https://image.fupa.net/player/panNLs5nOrH5/",
+            "description": "Lloyd Zantow",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 9,
+          "flags": [],
+          "statistics": {
+            "matches": 6,
+            "goals": 0,
+            "assists": 1
+          }
+        }
+      ]
+    },
+    {
+      "position": "Angriff",
+      "players": [
+        {
+          "slug": "niklas-montenarh-1826243",
+          "firstName": "Niklas",
+          "lastName": "Montenarh",
+          "image": {
+            "path": "https://image.fupa.net/player/V8uOdy1r3ARL/",
+            "description": "Niklas Montenarh",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 30,
+          "flags": [],
+          "statistics": {
+            "matches": 3,
+            "goals": 1,
+            "assists": 1
+          }
+        },
+        {
+          "slug": "morice-sand-simon-1057934",
+          "firstName": "Morice",
+          "lastName": "Sand-Simon",
+          "image": {
+            "path": "https://image.fupa.net/player/kLEmLGDH0xuS/",
+            "description": "Morice Sand-Simon",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 27,
+          "flags": [],
+          "statistics": {
+            "matches": 7,
+            "goals": 5,
+            "assists": 3
+          }
+        },
+        {
+          "slug": "tim-schmitz-1884109",
+          "firstName": "Tim",
+          "lastName": "Schmitz",
+          "image": {
+            "path": "https://image.fupa.net/player/nInoi1MCKz1v/",
+            "description": "Tim Schmitz",
+            "source": "Udo Smeets",
+            "svg": false
+          },
+          "jerseyNumber": 11,
+          "flags": [],
+          "statistics": {
+            "matches": 3,
+            "goals": 0,
+            "assists": 0
+          }
+        }
+      ]
+    }
+  ]
+}
