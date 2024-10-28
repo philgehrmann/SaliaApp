@@ -26,7 +26,6 @@ import {
   requestUserPermission,
   NotificationListener,
 } from "@/services/notificationService";
-import * as Notifications from "expo-notifications";
 
 export default function HomeScreen() {
   const colorScheme = useColorScheme();
@@ -47,25 +46,10 @@ export default function HomeScreen() {
       setApiData(res);
     }
   }
-  Notifications.setNotificationHandler({
-    handleNotification: async () => {
-      return {
-        shouldShowAlert: true,
-        shouldPlaySound: true,
-        shouldSetBadge: true,
-      };
-    },
-  });
-  const getToken = async () => {
-    const token = await Notifications.getExpoPushTokenAsync({
-      projectId: "saliasechtemapp",
-    });
-    console.log("asdasd test2");
-    console.log("device token: ", token.data);
-  };
 
   useEffect(() => {
-    getToken();
+    requestUserPermission();
+    NotificationListener();
     if (apiData !== "") {
       getData();
     }

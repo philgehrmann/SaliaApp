@@ -34,19 +34,6 @@ export default function TabLayout() {
           borderBottomWidth: 0,
           borderColor: Colors[colorScheme ?? "dark"].icon,
         },
-        headerRight: () => (
-          <View style={{ paddingRight: 15 }}>
-            <Link to="/liveticker">
-              <Ionicons
-                name="football"
-                size={32}
-                style={{ marginRight: 0, alignSelf: "center" }}
-                ios="ios-football"
-                color={Colors[colorScheme ?? "dark"].green}
-              />
-            </Link>
-          </View>
-        ),
         headerLeft: () => (
           <View
             style={{

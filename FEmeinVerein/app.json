@@ -1,11 +1,12 @@
 {
   "expo": {
+    "scheme": "com.saliasechtemapp",
     "name": "F.V Salia Sechtem",
     "slug": "F.V Salia Sechtem",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
