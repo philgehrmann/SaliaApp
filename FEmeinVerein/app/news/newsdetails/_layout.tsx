@@ -5,41 +5,27 @@ import { View } from "react-native";
 import { Link } from "expo-router";
 import { Image } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
+import { useFonts } from "expo-font";
 
 export default function NewsLayout() {
   const colorScheme = useColorScheme();
-
   return (
     <Stack>
       <Stack.Screen
         name="index"
         options={{
           headerShown: true,
-          headerStyle: {
-            backgroundColor: Colors[colorScheme ?? "dark"].headerBackground,
-          },
-          headerTransparent: false,
+
+          headerTransparent: true,
           headerTitleAlign: "center",
           headerTintColor: Colors[colorScheme ?? "dark"].headerTintColor,
-          headerTitle: "F.V Salia Sechtem",
+          headerTitle: "",
           headerBackTitle: "Custom Back",
           headerTitleStyle: {
             fontSize: 14,
           },
           headerBackTitleStyle: { fontSize: 52 },
-          headerRight: () => (
-            <View style={{ paddingRight: 15 }}>
-              <Link href="/liveticker">
-                <Ionicons
-                  name="football"
-                  size={32}
-                  style={{ marginRight: 0, alignSelf: "center" }}
-                  ios="ios-football"
-                  color={Colors[colorScheme ?? "dark"].headerTintColor}
-                />
-              </Link>
-            </View>
-          ),
+          headerRight: () => "",
           headerLeft: () => (
             <View
               style={{
@@ -48,7 +34,7 @@ export default function NewsLayout() {
                 marginLeft: 0,
                 marginTop: 0,
                 backgroundColor: Colors[colorScheme ?? "dark"].headerBackground,
-                borderRadius: 10,
+                borderRadius: 20,
               }}
             >
               <Link href="/">

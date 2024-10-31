@@ -14,11 +14,9 @@ export async function requestUserPermission() {
 
 export async function getNotificationToken() {
   let fcmtoken = AsyncStorage.getItem("fcmtoken");
-  console.log(fcmtoken);
   if (fcmtoken !== null) {
     try {
       let fcmtoken = await messaging().getToken();
-      console.log(fcmtoken);
       if (fcmtoken) {
         await AsyncStorage.setItem("fcmtoken", fcmtoken);
       }

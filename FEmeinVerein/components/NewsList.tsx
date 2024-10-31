@@ -35,12 +35,12 @@ export function NewsList({
   return (
     <>
       {apiData && (
-        <>
+        <View style={{ flex: 1, overflow: "hidden" }}>
           <FlatList
             data={apiData}
             style={{
-              width: 420,
-              height: 300,
+              width: width,
+              flex: 1,
             }}
             renderItem={({ item, index }) => (
               <View
@@ -106,7 +106,7 @@ export function NewsList({
               </View>
             )}
           />
-        </>
+        </View>
       )}
     </>
   );

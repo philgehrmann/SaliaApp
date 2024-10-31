@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "@expo-google-fonts/inter": "^0.2.3",
+    "@expo-google-fonts/quicksand": "^0.2.3",
+    "@expo-google-fonts/raleway": "^0.2.3",
     "@expo/vector-icons": "^14.0.2",
     "@react-native-async-storage/async-storage": "^2.0.0",
     "@react-native-firebase/app": "^21.2.0",
@@ -28,10 +30,11 @@
     "axios": "^1.7.7",
     "expo": "~51.0.28",
     "expo-application": "^5.9.1",
-    "expo-build-properties": "^0.12.5",
-    "expo-constants": "13.2.4",
+    "expo-build-properties": "~0.12.5",
+    "expo-constants": "^16.0.2",
     "expo-device": "~6.0.2",
     "expo-font": "~12.0.10",
+    "expo-linear-gradient": "^13.0.2",
     "expo-linking": "^6.3.1",
     "expo-notifications": "~0.28.19",
     "expo-router": "~3.5.23",
@@ -54,6 +57,7 @@
     "react-native-screens": "^3.31.1",
     "react-native-web": "~0.19.10",
     "react-native-x-carousel": "^1.0.1",
+    "twrnc": "^4.5.1",
     "yarn": "^1.22.22"
   },
   "devDependencies": {

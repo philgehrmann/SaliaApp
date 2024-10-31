@@ -1,4 +1,5 @@
 import { Image, StyleSheet, Platform, ScrollViewBase } from "react-native";
+import { useFonts } from "expo-font";
 import React, { useEffect, useState } from "react";
 import { RefreshControl, Text } from "react-native";
 import { ThemedView } from "@/components/ThemedView";
@@ -8,11 +9,16 @@ import { NewsSlider } from "@/components/NewsSlider";
 import { NewsList } from "@/components/NewsList";
 import Swiper from "react-native-screens-swiper";
 import { Teams } from "@/components/TeamNavigation/Teams";
+import { Ionicons } from "@expo/vector-icons";
 import { Spieltage } from "@/components/fussball/Spieltage";
 import { getFontSize } from "@/helper/font";
 import { Link } from "expo-router";
 import { Config } from "@/config/config";
 import { View } from "react-native";
+import tw from "twrnc";
+import { LinearGradient } from "expo-linear-gradient";
+import { Raleway_200ExtraLight } from "@expo-google-fonts/raleway";
+import { Quicksand_300Light } from "@expo-google-fonts/quicksand";
 import Animated, {
   interpolate,
   useAnimatedRef,
@@ -28,6 +34,10 @@ import {
 } from "@/services/notificationService";
 
 export default function HomeScreen() {
+  const [fontsLoaded] = useFonts({
+    Raleway_200ExtraLight,
+    Quicksand_300Light,
+  });
   const colorScheme = useColorScheme();
   const scrollRef = useAnimatedRef<Animated.ScrollView>();
   const [refreshing, setRefreshing] = React.useState(false);
@@ -57,7 +67,7 @@ export default function HomeScreen() {
 
   const navData = [
     {
-      tabLabel: "News",
+      tabLabel: "Neuigkeiten",
       component: NewsList,
       props: { apiData: apiData },
     },
@@ -89,66 +99,111 @@ export default function HomeScreen() {
     pillsOverflow: {
       backroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
       zIndex: -1,
+      borderRadius: 20,
+      marginTop: 10,
     },
     pillContainer: {
       backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
       zIndex: -1,
+      borderRadius: 20,
     },
     staticPillsContainer: {
-      height: 35,
       backroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
       zIndex: 0,
-      marginTop: 20,
+      borderRadius: 20,
     },
     pillButton: {
       backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
-      borderRadius: 20,
+      borderRadius: 30,
     },
     pillActive: {
       backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
-      height: 35,
+      borderRadius: 20,
     },
     pillLabel: {
       color: Colors[colorScheme ?? "dark"].text,
       paddingBottom: 10,
+      paddingTop: 10,
       textAlign: "left",
-      fontSize: getFontSize(11),
+      fontSize: getFontSize(10),
+      borderRadius: 3,
+      overflow: "hidden",
     },
     activeLabel: {
-      color: Colors[colorScheme ?? "dark"].teamColor,
+      color: Colors[colorScheme ?? "dark"].white,
+      paddingHorizontal: 10,
       fontWeight: "bold",
-      backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
-      paddingBottom: 10,
-      borderRadius: 10,
+      backgroundColor: "#2a832f",
+      borderRadius: 5,
     },
     borderActive: {
-      borderColor: Colors.dark.green,
+      borderColor: "transparent",
     },
   };
+  // {apiData !== "" && <NewsSlider apiData={apiData} />}
   return (
-    <ThemedView style={styles.container}>
+    <ThemedView style={tw.style("rounded-[20px]")}>
       <Animated.ScrollView
         ref={scrollRef}
-        scrollEventThrottle={16}
+        scrollEventThrottle={32}
         refreshControl={
           <RefreshControl
             refreshing={refreshing}
             onRefresh={onRefresh}
+            tintColor={"#4fc65d"}
             colors={[Colors[colorScheme ?? "dark"].green]}
+            progressBackgroundColor={"#4fc65d"}
+            progressViewOffset={2}
           />
         }
       >
-        <Eilmeldung />
-        {apiData !== "" && <NewsSlider apiData={apiData} />}
-        <View style={{ position: "relative", zIndex: -1 }}>
+        <View
+          style={tw.style(
+            "h-[400px] shadow-md shadow-opacity-75 rounded-bl-lg"
+          )}
+        >
+          <LinearGradient
+            // Button Linear Gradient
+            colors={["#4fc65d", "#2a832f"]}
+            style={tw.style(
+              "h-[400px] shadow-md rounded-bl-[75px] pt-[80px] px-6"
+            )}
+          >
+            <View
+              style={tw.style(
+                "w-full border-[1px] border-[#000000] flex flex-row stretch "
+              )}
+            >
+              <View style={tw.style("grow")}>
+                <Text>
+                  {" "}
+                  <Image
+                    source={require("../../assets/images/logo.png")}
+                    alt="alt"
+                    width={20}
+                    height={20}
+                    resizeMode={"cover"}
+                    style={{
+                      width: 30,
+                      height: 40,
+                    }}
+                  />
+                </Text>
+              </View>
+              <View style={tw.style("grow text-right grow justify-self-end")}>
+                <Text style={tw.style("text-right")}>a</Text>
+              </View>
+            </View>
+          </LinearGradient>
+        </View>
+        <View style={{ zIndex: 0 }}>
           <Swiper
             data={navData}
             isStaticPills={true}
             style={styles}
-            stickyHeaderEnabled={false}
+            stickyHeaderEnabled={true}
             scrollableContainer={false}
-            stickyHeaderIndex={0}
-            // FlatList props
+            stickyHeaderIndex={1}
           />
         </View>
       </Animated.ScrollView>

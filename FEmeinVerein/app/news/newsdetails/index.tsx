@@ -13,6 +13,7 @@ import { useState } from "react";
 import { View, Text } from "react-native";
 import { ImageBackground } from "react-native";
 import NewsDetailRendering from "@/components/NewsdetailsRendering";
+import tw from "twrnc";
 export default function NewsDetailsSlug() {
   const [data, setData] = useState();
 
@@ -44,7 +45,10 @@ export default function NewsDetailsSlug() {
                   uri: "http://192.168.1.102:1337" + data.teaserbild.url,
                 }}
                 resizeMode="cover"
-                style={{ height: 400, padding: 20 }}
+                style={{
+                  height: 400,
+                  padding: 20,
+                }}
               ></ImageBackground>
             }
           >
@@ -64,28 +68,28 @@ export default function NewsDetailsSlug() {
                 {data.teaserbildcaption}
               </ThemedText>
             </ThemedView>
-            <ThemedView
-              style={{
-                gap: 1,
-                paddingHorizontal: 22,
-                marginTop: 5,
-                position: "relative",
-                backgroundColor: Colors[colorScheme ?? "dark"].textbg,
-              }}
-            >
+            <ThemedView>
               <ThemedText
                 style={{
-                  fontSize: 42,
-                  lineHeight: 48,
+                  fontSize: 32,
+                  lineHeight: 36,
+                  paddingHorizontal: 12,
                   textTransform: "uppercase",
                   color: Colors[colorScheme ?? "dark"].headline,
+                  fontFamily: "Quicksand_700Bold",
                 }}
                 type="title"
               >
                 {data.headline}
               </ThemedText>
               <ThemedText
-                style={{ fontSize: 24, lineHeight: 28, marginTop: 10 }}
+                style={{
+                  fontSize: 20,
+                  lineHeight: 28,
+                  marginTop: 10,
+                  paddingHorizontal: 12,
+                  fontFamily: "Quicksand_500Medium",
+                }}
                 type="title"
               >
                 {data.subline}
@@ -95,6 +99,8 @@ export default function NewsDetailsSlug() {
               style={{
                 gap: 8,
                 marginTop: 0,
+                marginBottom: 24,
+                paddingBottom: 50,
                 position: "relative",
                 backgroundColor: Colors[colorScheme ?? "dark"].textbg,
               }}

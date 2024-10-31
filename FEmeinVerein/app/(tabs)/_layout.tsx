@@ -23,17 +23,23 @@ export default function TabLayout() {
           Colors[colorScheme ?? "dark"].tabBarActiveTintColor,
         tabBarActiveBackgroundColor:
           Colors[colorScheme ?? "dark"].tabBarBackground,
-        headerShown: true,
-        headerTransparent: false,
+        headerShown: false,
+        headerTransparent: true,
         headerShadowVisible: false,
+        headerTitleAlign: "center",
         headerTitle: Config.vereinsname,
-        headerTintColor: Colors[colorScheme ?? "dark"].headerTintColor,
+        headerTintColor: Colors[colorScheme ?? "dark"].white,
+        headerTitleStyle: {
+          fontSize: 24,
+          fontFamily: "Quicksand_500Medium",
+        },
         headerStyle: {
           backgroundColor: Colors[colorScheme ?? "dark"].headerBackground,
           height: 100,
           borderBottomWidth: 0,
           borderColor: Colors[colorScheme ?? "dark"].icon,
         },
+        tabBarHideOnKeyboard: true,
         headerLeft: () => (
           <View
             style={{
@@ -41,7 +47,6 @@ export default function TabLayout() {
               paddingVertical: 8,
               marginLeft: 10,
               marginTop: 15,
-              backgroundColor: Colors[colorScheme ?? "dark"].headerBackground,
               borderRadius: 10,
             }}
           >
@@ -52,8 +57,8 @@ export default function TabLayout() {
               height={20}
               resizeMode={"cover"}
               style={{
-                width: 50,
-                height: 60,
+                width: 30,
+                height: 40,
               }}
             />
           </View>

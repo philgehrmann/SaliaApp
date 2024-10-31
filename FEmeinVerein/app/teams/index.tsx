@@ -81,20 +81,27 @@ export default function HomeScreen() {
   const styles = {
     pillsOverflow: {
       backroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
+      zIndex: -1,
     },
     pillContainer: {
       backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
+      zIndex: -1,
+      height: 60,
     },
     staticPillsContainer: {
-      height: 35,
+      height: 40,
       backroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
+      zIndex: 0,
+      marginTop: 60,
+      marginBottom: 40,
     },
     pillButton: {
       backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
+      borderRadius: 20,
     },
     pillActive: {
       backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
-      height: 35,
+      height: 20,
     },
     pillLabel: {
       color: Colors[colorScheme ?? "dark"].text,
@@ -103,10 +110,11 @@ export default function HomeScreen() {
       fontSize: getFontSize(11),
     },
     activeLabel: {
-      color: Colors[colorScheme ?? "dark"].text,
+      color: Colors[colorScheme ?? "dark"].teamColor,
       fontWeight: "bold",
       backgroundColor: Colors[colorScheme ?? "dark"].tabBarBackground,
-      paddingBottom: 10,
+      paddingBottom: 5,
+      borderRadius: 10,
     },
     borderActive: {
       borderColor: Colors.dark.green,

@@ -10,6 +10,7 @@ import { Dimensions, Text, ImageBackground } from "react-native";
 import Carousel from "react-native-reanimated-carousel";
 import type { ICarouselInstance } from "react-native-reanimated-carousel";
 import { Link } from "expo-router";
+import tw from "twrnc";
 export type ThemedViewProps = ViewProps & {
   lightColor?: string;
   darkColor?: string;
@@ -29,26 +30,23 @@ export function NewsSlider({
 
   return (
     <View style={styles.stepContainer}>
-      <View style={{ flex: 0, paddingLeft: 0, padding: 0, width: 100 }}>
+      <View style={tw.style("shadow-lg -mt-[75px]")}>
         {apiData ? (
-          <View style={{ flex: 0, marginTop: 0, padding: 0, width: 100 }}>
+          <View style={tw.style("shadow-xl")}>
             <Carousel
               ref={ref}
-              width={420}
-              height={300}
+              width={width}
+              height={220}
               autoPlay={true}
-              windowSize={80}
               data={apiData}
               loop={true}
-              snapEnabled={true}
+              snapEnabled={false}
               style={{
                 marginLeft: 0,
                 paddingLeft: 0,
-                overflow: "visible",
+                overflow: "hidden",
                 position: "relative",
-                zIndex: 1000,
               }}
-              mode="parallax"
               modeConfig={{
                 parallaxScrollingScale: 1,
                 parallaxScrollingOffset: 0,
@@ -57,7 +55,7 @@ export function NewsSlider({
               scrollAnimationDuration={800}
               autoPlayInterval={5000}
               panGestureHandlerProps={{
-                activeOffsetX: [-60, 60],
+                activeOffsetX: [-20, 20],
               }}
               renderItem={({ item }) => (
                 <View style={styles.slideritem}>
@@ -67,62 +65,77 @@ export function NewsSlider({
                     }}
                     resizeMode="cover"
                     style={{
-                      height: 300,
+                      height: 200,
                       paddingVertical: 20,
-                      paddingHorizontal: 10,
-                      borderRadius: 40,
+                      margin: 20,
                       display: "flex",
                       alignItems: "start",
                       justifyContent: "flex-end",
+                      borderBottomLeftRadius: 30,
+                      borderBottomRightRadius: 30,
+                      borderRadius: 20,
+                      overflow: "hidden",
                     }}
                   >
                     <View
                       style={{
-                        padding: 5,
-                        marginBottom: 0,
                         backgroundColor: Colors.dark.white,
-                        borderRadius: 5,
+                        width: 200,
+                        borderRadius: 20,
+                        overflow: "hidden",
                       }}
                     >
-                      <Text
+                      <View
                         style={{
-                          paddingHorizontal: 5,
-                          borderRadius: 30,
-                          fontFamily: "Inter_500Medium",
-                        }}
-                      >
-                        {item.Kategorie}
-                      </Text>
-                    </View>
-
-                    <View
-                      style={{
-                        padding: 10,
-                        position: "relative",
-                        backgroundColor: Colors.dark.green,
-                        marginBottom: -40,
-                        borderRadius: 10,
-                        zIndex: 400,
-                      }}
-                    >
-                      <Link
-                        href={{
-                          pathname: "/news/newsdetails/",
-                          // /* 1. Navigate to the details route with query params */
-                          params: { id: item.documentId },
+                          padding: 5,
+                          marginBottom: 0,
+                          backgroundColor: Colors.dark.white,
+                          borderRadius: 20,
+                          overflow: "hidden",
                         }}
                       >
                         <Text
                           style={{
-                            color: Colors.dark.white,
-                            textTransform: "",
-                            fontSize: 22,
-                            maxWidth: 350,
+                            paddingHorizontal: 5,
+                            borderRadius: 30,
+                            width: "auto",
+                            fontFamily: "Inter_500Medium",
+                            fontSize: 10,
                           }}
                         >
-                          {item.headline}
+                          {item.Kategorie}
                         </Text>
-                      </Link>
+                      </View>
+
+                      <View
+                        style={{
+                          padding: 10,
+                          position: "relative",
+                          marginBottom: 0,
+                          borderRadius: 10,
+                          zIndex: 400,
+                          backgroundColor: Colors.dark.white,
+                        }}
+                      >
+                        <Link
+                          href={{
+                            pathname: "/news/newsdetails/",
+                            // /* 1. Navigate to the details route with query params */
+                            params: { id: item.documentId },
+                          }}
+                        >
+                          <Text
+                            style={{
+                              color: Colors.dark.black,
+                              textTransform: "",
+                              fontSize: 12,
+                              maxWidth: 350,
+                            }}
+                          >
+                            {item.headline}
+                          </Text>
+                        </Link>
+                      </View>
                     </View>
                   </ImageBackground>
                 </View>
@@ -154,16 +167,12 @@ const styles = StyleSheet.create({
   stepContainer: {
     gap: 0,
     marginBottom: 8,
-    paddingLeft: 0,
   },
   slider: {
     borderRadius: 20,
   },
   slideritem: {
-    height: 300,
-    borderRadius: 0,
-    display: "flex",
-    shadowColor: "#52006A",
-    marginHorizontal: 0,
+    height: 200,
+    borderRadius: 40,
   },
 });

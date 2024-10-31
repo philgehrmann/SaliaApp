@@ -1,5 +1,5 @@
 import type { PropsWithChildren, ReactElement } from "react";
-import { StyleSheet, useColorScheme } from "react-native";
+import { StyleSheet, useColorScheme, Dimensions } from "react-native";
 import { Colors } from "@/constants/Colors";
 import Animated, {
   interpolate,
@@ -12,6 +12,7 @@ import { ThemedView } from "@/components/ThemedView";
 import { ThemedText } from "./ThemedText";
 import { Image } from "react-native";
 const HEADER_HEIGHT = 450;
+const width = Dimensions.get("window").width;
 
 type Props = PropsWithChildren<{
   data: any;
@@ -34,9 +35,10 @@ export default function NewsDetailRendering({ data }: Props) {
                       key={index}
                       style={{
                         color: Colors[colorScheme ?? "dark"].text,
-                        fontSize: 20,
+                        fontSize: 16,
                         lineHeight: 30,
-                        paddingHorizontal: 22,
+                        paddingHorizontal: 15,
+                        fontFamily: "Quicksand_500Medium",
                       }}
                     >
                       {subitem.text}
@@ -52,7 +54,12 @@ export default function NewsDetailRendering({ data }: Props) {
               case "image": {
                 return (
                   <Image
-                    style={{ height: 300, width: 420 }}
+                    style={{
+                      height: 300,
+                      width: width - 12,
+                      marginHorizontal: 6,
+                      borderRadius: 20,
+                    }}
                     source={{
                       uri: item.image.url,
                     }}

@@ -10,6 +10,15 @@ import "react-native-reanimated";
 import { useFonts, Inter_900Black } from "@expo-google-fonts/inter";
 import { useColorScheme } from "@/hooks/useColorScheme";
 import messaging from "@react-native-firebase/messaging";
+import {
+  Raleway_200ExtraLight,
+  Raleway_400Regular,
+} from "@expo-google-fonts/raleway";
+import {
+  Quicksand_300Light,
+  Quicksand_500Medium,
+  Quicksand_700Bold,
+} from "@expo-google-fonts/quicksand";
 // Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
 
@@ -17,6 +26,11 @@ export default function RootLayout() {
   const colorScheme = useColorScheme();
   const [loaded] = useFonts({
     Inter_900Black,
+    Raleway_200ExtraLight,
+    Raleway_400Regular,
+    Quicksand_300Light,
+    Quicksand_500Medium,
+    Quicksand_700Bold,
   });
 
   const getNotificationToken = async () => {
